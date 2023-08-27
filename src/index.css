@@ -1,0 +1,140 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  padding: 0;
+  background: #20262E;
+  color: #CD5888;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 22px;
+}
+
+h2 {
+  margin-top: 0;
+  font-size: 20px;
+}
+
+.MuiTypography-h2, .MuiTypography-h4 {
+  color: #E9E8E8;
+}
+
+h3 {
+  margin-top: 0;
+  font-size: 18px;
+}
+
+h4 {
+  margin-top: 0;
+  font-size: 16px;
+}
+
+h5 {
+  margin-top: 0;
+  font-size: 14px;
+}
+
+h6 {
+  margin-top: 0;
+  font-size: 12px;
+}
+
+code {
+  font-size: 1.2em;
+}
+
+ul {
+  padding-inline-start: 20px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  padding: 0;
+}
+
+.step {
+  cursor: pointer;
+}
+
+.square {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.border-right {
+  border-right: 3px solid #913175;
+}
+
+.with-border-top {
+  border-top: 3px solid #913175;
+}
+
+.MuiSvgIcon-fontSizeMedium {
+  color: dimgray !important;
+}
+
+.Mui-active {
+  color: #CD5888 !important;
+}
+
+.Mui-completed {
+  color: #913175 !important;
+}
+
+.MuiStepLabel-label {
+  color: gray;
+}
+
+.x {
+  font-size: 120px;
+}
+
+.o {
+  font-size: 100px;
+}
+
+.board {
+  border: 3px solid #913175;
+  border-radius: 5%;
+}
+
+.center-column {
+  border-top: 3px solid #913175;
+  border-bottom: 3px solid #913175;
+}
+
+.main-header {
+  font-size: 50px;
+}
+
+.win-square {
+  border-radius: 5%;
+  background: #913175;
+}
+
+.status {
+  margin-bottom: 10px;
+}
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-info {
+  margin-left: 20px;
+}
+
+.x-icon {
+  font-size: 500px;
+}
