@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Tic-Tac-Toe/static/css/main.aed4fa24.css",
+    "main.js": "/Tic-Tac-Toe/static/js/main.07ed1818.js",
+    "static/js/364.2921b275.chunk.js": "/Tic-Tac-Toe/static/js/364.2921b275.chunk.js",
+    "static/js/787.93c0ff9f.chunk.js": "/Tic-Tac-Toe/static/js/787.93c0ff9f.chunk.js",
+    "static/js/613.b7bbb2a9.chunk.js": "/Tic-Tac-Toe/static/js/613.b7bbb2a9.chunk.js",
+    "index.html": "/Tic-Tac-Toe/index.html",
+    "main.aed4fa24.css.map": "/Tic-Tac-Toe/static/css/main.aed4fa24.css.map",
+    "main.07ed1818.js.map": "/Tic-Tac-Toe/static/js/main.07ed1818.js.map",
+    "364.2921b275.chunk.js.map": "/Tic-Tac-Toe/static/js/364.2921b275.chunk.js.map",
+    "787.93c0ff9f.chunk.js.map": "/Tic-Tac-Toe/static/js/787.93c0ff9f.chunk.js.map",
+    "613.b7bbb2a9.chunk.js.map": "/Tic-Tac-Toe/static/js/613.b7bbb2a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aed4fa24.css",
+    "static/js/main.07ed1818.js"
+  ]
+}
